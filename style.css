@@ -96,6 +96,7 @@ header section style
 ---------------------- */
 .Quick-list{
     display: flex;
+    gap: 10px;
     max-width: 1500px;
     
 }.quick-list-images{
